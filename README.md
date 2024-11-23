@@ -66,7 +66,7 @@
 
 
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Research into Signature Malleability and Private Key Compromise in Bitcoin Signatures - CRYPTO DEEP TECH_files/wf6QwCpP3oc.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 <div class="wp-block-image">
@@ -545,7 +545,7 @@ ls
 
 
 
-<p class="has-text-align-center"><iframe width="560" height="315" src="./Research into Signature Malleability and Private Key Compromise in Bitcoin Signatures - CRYPTO DEEP TECH_files/isWxfa3PeHU.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -1189,7 +1189,7 @@ python tutorials.py
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Research into Signature Malleability and Private Key Compromise in Bitcoin Signatures - CRYPTO DEEP TECH_files/u7vD01x8Os8.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -1450,7 +1450,7 @@ Balance: 21.25292140 BTC
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Research into Signature Malleability and Private Key Compromise in Bitcoin Signatures - CRYPTO DEEP TECH_files/nWU2c2haVoA.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
@@ -1618,7 +1618,7 @@ f.close()</strong></code></pre>
 
 
 
-<p class="has-text-align-center"><iframe loading="lazy" width="560" height="315" src="./Research into Signature Malleability and Private Key Compromise in Bitcoin Signatures - CRYPTO DEEP TECH_files/8B2LKMBsVSE.html" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></p>
+
 
 
 
