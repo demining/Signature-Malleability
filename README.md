@@ -7,6 +7,14 @@
 <p>A vulnerability known as Signature Malleability poses a serious threat to Bitcoin and Ethereum cryptocurrencies that use the Elliptic Curve Digital Signature Algorithm (ECDSA). This vulnerability allows attackers to manipulate signatures, creating invalid but acceptable signatures for the system. This article discusses the mechanisms of exploitation of this vulnerability, its implications for the security of cryptocurrencies, and proposed measures to mitigate it. ECDSA (Elliptic Curve Digital Signature Algorithm) is an algorithm that is widely used to create digital signatures for a BTC or ETH coin transfer transaction in Bitcoin and Ethereum cryptocurrencies. The signature consists of two components:&nbsp;&nbsp;<em><strong>r</strong></em>&nbsp;&nbsp;and&nbsp;&nbsp;<em><strong>s</strong></em>&nbsp;, which depend on a random nonce&nbsp;&nbsp;<em><strong>k</strong></em>&nbsp;&nbsp;(NONCE) and a private key&nbsp;<em><strong>x</strong></em>&nbsp;&nbsp;(PrivKey) of the signatory.</p>
 
 
+---
+
+* Tutorial: https://youtu.be/wf6QwCpP3oc
+* Tutorial: https://cryptodeeptech.ru/signature-malleability
+* Google Colab: https://colab.research.google.com/drive/1HMmeEQDL4kRKfJNQptTf3Mz4VTZmka8h
+
+---
+
 
 <h2 class="wp-block-heading">How does Signature Malleability vulnerability occur in Bitcoin transaction?</h2>
 
